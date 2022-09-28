@@ -18,6 +18,7 @@ note:智慧汽車演示平臺的系統架構。
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image3.png?raw=true)
 
 Figure 3. The Smart Car’s configuration.
+
 note:智慧汽車的配置
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image4.png?raw=true)
